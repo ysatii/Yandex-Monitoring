@@ -42,7 +42,7 @@
  ```
  
  ```
- ![alt text](https://github.com/ysatii/Zabbix/Yandex-Monitoring/main/img/image.jpg)
+ ![alt text](https://github.com/ysatii/Zabbix/Yandex-Monitoring/main/img/image1.jpg)
 
 
 

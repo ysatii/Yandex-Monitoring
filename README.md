@@ -43,7 +43,16 @@
  
  ```
  ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1.jpg)
-
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_1.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_2.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_3.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_4.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_5.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_6.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_7.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_8.jpg)
+ ![alt text](https://github.com/ysatii/Yandex-Monitoring/blob/main/img/image1_9.jpg)
+         
 
 
  
